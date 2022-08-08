@@ -1,4 +1,4 @@
-# “Automatic Speech Recognition and Text to Speech Synthesizer for Spoken Dialog Conversation”
+# Automatic Speech Recognition(ASR) and Text to Speech Synthesizer(TTS) for Spoken Dialog Conversation”
 ## Summary
 In this project, we have focussed on creating an Automatic Speech Recognition (ASR) and Text to Speech (TTS) module for low resource Indic language Hindi.
 
